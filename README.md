@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://kenzycodex.github.io/recipe/)
+- [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-BQkTe_QzED)
+- [Live Site URL](https://kenzycodex.github.io/huddle/)
 
 ## My Process
 
